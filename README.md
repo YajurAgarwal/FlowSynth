@@ -79,15 +79,15 @@ To test the model on unseen data:
 ## Results
 
 #### Training Loss V/S Validation Loss
-![Training Loss V/S Validation Loss](FlowSynth\images\output.png)
+![Training Loss V/S Validation Loss](images/output.png)
 #### Validation Sample
-![Validation Sample-0](FlowSynth\images\validation_0.png)
+![Validation Sample-0](images/validation_0.png)
 #### Validation Sample
-![Validation Sample-45](FlowSynth\images\validation_45.png)
+![Validation Sample-45](images/validation_45.png)
 #### Test Sample
-![Test Sample-0](FlowSynth\images\test_0.png)
+![Test Sample-0](images/test_0.png)
 #### Test Sample
-![Test Sample-7](FlowSynth\images\test_7.png)
+![Test Sample-7](images/test_7.png)
 
 ## Future Scope of this Project 
 
