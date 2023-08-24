@@ -78,9 +78,16 @@ To test the model on unseen data:
 
 ## Results
 
-![Generated Flow](results/sample_result.png)
-![Generated Flow](results/sample_result.png)
-![Generated Flow](results/sample_result.png)
+#### Training Loss V/S Validation Loss
+![Training Loss V/S Validation Loss](images\output.png)
+#### Validation Sample
+![Validation Sample-0](images\validation_0.png)
+#### Validation Sample
+![Validation Sample-45](images\validation_45.png)
+#### Test Sample
+![Test Sample-0](images\test_0.png)
+#### Test Sample
+![Test Sample-7](images\test_7.png)
 
 ## Future Scope of this Project 
 
