@@ -81,13 +81,13 @@ To test the model on unseen data:
 #### Training Loss V/S Validation Loss
 ![Training Loss V/S Validation Loss](images/output.png)
 #### Validation Sample
-![Validation Sample-0](images/validation_0.png)
+![Validation Sample-0](images/validation.png)
 #### Validation Sample
-![Validation Sample-45](images/validation_45.png)
+![Validation Sample-45](images/validation_1.png)
 #### Test Sample
-![Test Sample-0](images/test_0.png)
+![Test Sample-0](images/test.png)
 #### Test Sample
-![Test Sample-7](images/test_7.png)
+![Test Sample-7](images/test_9.png)
 
 ## Future Scope of this Project 
 
