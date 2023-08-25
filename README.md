@@ -1,6 +1,6 @@
 # FlowSynth: Synthesizing Fluid Dynamics with Machine Learning
 
-![FlowSynth](images/logo.png)
+![FlowSynth](images/logo.gif)
 
 ## Table of Contents
 
