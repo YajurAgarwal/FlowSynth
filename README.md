@@ -1,6 +1,6 @@
 # FlowSynth: Synthesizing Fluid Dynamics with Machine Learning
 
-![FlowSynth](path/to/your/project/logo.png)
+![FlowSynth](images/logo.png)
 
 ## Table of Contents
 
@@ -9,6 +9,7 @@
 - [Technical Details](#technical-details)
 - [Project Structure](#project-structure)
 - [Prerequisites](#prerequisites)
+- [Dataset](#dataset)
 - [Getting Started](#getting-started)
 - [Training](#training)
 - [Results](#results)
@@ -49,6 +50,15 @@ FlowSynth is a machine learning project that focuses on synthesizing fluid dynam
 - NumPy
 - Matplotlib
 - PIL (Python Imaging Library)
+
+## Dataset
+
+Below you can download a large-scale training data set, and the test data set:
+
+* Reduced data set with 6.4k samples plus test data (1.2GB): <https://dataserv.ub.tum.de/s/m1470791/download?path=%2F&files=data_6k.tar.gz>
+  (or via mediaTUM <https://dataserv.ub.tum.de/index.php/s/m1470791>)
+* Full data set with 53.8k samples plus test data (10GB): <https://dataserv.ub.tum.de/s/m1459172/download?path=%2F&files=data_full.tar.gz>
+  (or via mediaTUM <https://dataserv.ub.tum.de/index.php/s/m1459172>)
 
 ## Getting Started
 
